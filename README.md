@@ -1,4 +1,6 @@
 # ⚙️ | Projetos Digitais e Microprocessadores - Microprocessador MIPS simples
+![Faculdade](https://img.shields.io/badge/Faculdade-91e2d6?style=for-the-badge)
+
 
 ## Sobre o repositório
 Esse repositório contém o trabalho desenvolvido para a disciplina de Projetos Digitais e Microprocessadores para o 2º semestre do curso de Ciência da Computação na Universidade Federal do Paraná. O objetivo era desenvolver um microprocessador simples inspirado na arquitetura MIPS através dos aprendizados durante as aulas. 
